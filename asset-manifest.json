@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/mimics.live/static/css/main.291f1e27.chunk.css",
+    "main.js": "/mimics.live/static/js/main.a76b81db.chunk.js",
+    "main.js.map": "/mimics.live/static/js/main.a76b81db.chunk.js.map",
+    "runtime-main.js": "/mimics.live/static/js/runtime-main.96f435dd.js",
+    "runtime-main.js.map": "/mimics.live/static/js/runtime-main.96f435dd.js.map",
+    "static/js/2.3155a060.chunk.js": "/mimics.live/static/js/2.3155a060.chunk.js",
+    "static/js/2.3155a060.chunk.js.map": "/mimics.live/static/js/2.3155a060.chunk.js.map",
+    "static/js/3.1414eae9.chunk.js": "/mimics.live/static/js/3.1414eae9.chunk.js",
+    "static/js/3.1414eae9.chunk.js.map": "/mimics.live/static/js/3.1414eae9.chunk.js.map",
+    "index.html": "/mimics.live/index.html",
+    "static/css/main.291f1e27.chunk.css.map": "/mimics.live/static/css/main.291f1e27.chunk.css.map",
+    "static/js/2.3155a060.chunk.js.LICENSE.txt": "/mimics.live/static/js/2.3155a060.chunk.js.LICENSE.txt",
+    "static/media/reset.css": "/mimics.live/static/media/font.617a0a92.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.96f435dd.js",
+    "static/js/2.3155a060.chunk.js",
+    "static/css/main.291f1e27.chunk.css",
+    "static/js/main.a76b81db.chunk.js"
+  ]
+}

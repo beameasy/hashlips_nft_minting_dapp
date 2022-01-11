@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x6F2bf15b26971BBAd60C56aac775ab9fC6db1155",
+  "SCAN_LINK": "https://etherscan.io/address/0x6f2bf15b26971bbad60c56aac775ab9fc6db1155",
+  "NETWORK": {
+    "NAME": "Ethereum",
+    "SYMBOL": "ETH",
+    "ID": 1
+  },
+  "NFT_NAME": "Mimics",
+  "SYMBOL": "MIMIC",
+  "MAX_SUPPLY": 5000,
+  "WEI_COST": 10000000000000000,
+  "DISPLAY_COST": 0.01,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/themimics",
+  "SHOW_BACKGROUND": true
+}
